@@ -1,0 +1,19 @@
+p{
+    color:rgb(29, 192, 233);
+    background-color:rgb(38, 37, 41);
+    text-align:left;
+    font-family:Helvetica, 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+    text-transform:uppercase;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.blue {
+    background:blue;
+}
+
+img {
+    width: 100vw, 10vh;
+}
